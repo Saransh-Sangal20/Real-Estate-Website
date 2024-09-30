@@ -16,7 +16,8 @@ h1 {
 .homes {
     text-decoration: none;
     color: white;
-    margin: 100px;
+    margin-left: 150px;
+    margin-right: 100px;
     
 }
 .properties {
@@ -57,12 +58,13 @@ h1 {
     height: 40px;
     width: 60%;
     border-radius: 10px;
-    margin-left: 300px;
+    margin-left: 325px;
 }
 .buy {
     text-decoration: none;
     color: #333333;
-    margin: 80px;
+    margin-left: 100px;
+    margin-right: 80px;
 }
 .rent {
     text-decoration: none;
