@@ -105,6 +105,12 @@ h1 {
     color: black;
     font-weight: bold;
 }
+.imgs1 {
+    border-radius: 10px;
+}
+.imgs2 {
+    border-radius: 10px;
+}
 .aboutus {
     text-decoration: underline;
     font-size: 20px;
