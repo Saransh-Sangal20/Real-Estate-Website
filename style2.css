@@ -1,0 +1,70 @@
+body {
+    background-color: #F4E3D7;
+    margin: 0;
+    padding: 0;
+}
+.propnavbar {
+    background-color: #333333;
+    width: 99.4vw;
+    height: 45px;
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 15px;
+    display: flex;
+    position: fixed;
+    top: 0;
+}
+.homes {
+    text-decoration: none;
+    color: white;
+    margin-left: 110px;
+}
+.flats {
+    text-decoration: none;
+    color: white;
+    margin-left: 200px;
+}
+.buildings {
+    text-decoration: none;
+    color: white;
+    margin-left: 200px;
+}
+.about {
+    text-decoration: none;
+    color: white;
+    margin-left: 200px;
+}
+.searchbar2 {
+    margin-left: 200px;
+    border-radius: 10px;
+    height: 20px;
+}
+.searchbutton {
+    background-color: gold;
+    border-radius: 10px;
+}
+.head1 {
+    margin-left: 40%;
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.knowmore {
+    background-color: rgba(255,255,255,0.7);
+    height: 40px;
+    margin-left: 40%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.getknow {
+    text-decoration: none;
+    margin-left: 60px;
+    color: black;
+    font-weight: bold;
+}
+.view {
+    margin-left: 10px;
+    color: blue;
+    font-weight: 200;
+}
